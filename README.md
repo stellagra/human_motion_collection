@@ -1,7 +1,14 @@
-# human motion collection
-intention: collection of databases containing human motion.
+# Collection of Databases with Human Motion and Keypoints
+intention: collection of databases containing human motion. 
 
 
+## Misc
+- [COCO](https://cocodataset.org/#keypoints-2020)
+- [Human3.6m](http://vision.imar.ro/human3.6m/description.php) - 3.6 million 3D human poses and corresponding images
+
+## Yoga
+- [Yoga-82: A New Dataset for Fine-grained Classification of Human Poses](https://sites.google.com/view/yoga-82/home) -  hierarchical pose classification with 82 classes, 20 subclasses, and 6 root classes
+- 
 
 ## Badminton Datasets
 
