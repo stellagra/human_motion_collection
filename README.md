@@ -16,3 +16,8 @@ intention: collection of databases containing human motion.
 - [ShuttleSet: A Human-Annotated Stroke-Level Singles Dataset for Badminton Tactical Analysis](https://arxiv.org/abs/2306.04948)
 - [ShuttleSet22: Benchmarking Stroke Forecasting with Stroke-Level Badminton Dataset](https://arxiv.org/abs/2306.15664) - get access [here](https://github.com/wywyWang/CoachAI-Projects/tree/main/CoachAI-Challenge-IJCAI2023)
 - [Towards Structured Analysis of Broadcast Badminton Videos](https://ieeexplore.ieee.org/document/8354143): Badminton Olympics
+
+
+## Gym Machine Images
+Something entirely different
+- [gym equipment database](https://universe.roboflow.com/bangkit-academy-ognnb/gym-equipment-object-detection)
