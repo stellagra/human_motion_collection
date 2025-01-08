@@ -1,6 +1,7 @@
 # Collection of Databases with Human Motion and Keypoints
-intention: collection of databases containing human motion. 
 
+Intention: This is an slowly but increasing collection of databases containing human motion in different domains. 
+This is by no means complete. 
 
 ## Misc
 - [COCO](https://cocodataset.org/#keypoints-2020)
